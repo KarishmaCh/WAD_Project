@@ -1,0 +1,5 @@
+npm i
+to install dependencies.
+
+Running
+node app.js
